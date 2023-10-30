@@ -1,4 +1,5 @@
 # Java Memory Game Project
+by Leticia & Fiona
 
 ## Intoduction
 Welcome to our Java Project "Match Madness!" This is a card matching game that will challenge your memory!
@@ -14,7 +15,7 @@ Welcome to our Java Project "Match Madness!" This is a card matching game that w
   ```
   java Main
 - This should open a new GUI window. This window may be minimised and will need to me stretched wide enough to see the full diplay as shown below.
-- Follow the instructions in the chat box, directly below the pale green "Submit" button to play the game.
+- Follow the instructions in the chat box, directly below the pale green "Submit" button to play the game. All required input should be entered by clicking into the textfield directly to the left of the "Submit" button, and typing, before clicking "Submit" to submit the input.
 
 ## Notes
 - For your convenience, there will be a printed answer list left in the standard terminal for you, to aid in testing the game without testing your memory!
