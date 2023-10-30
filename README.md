@@ -21,4 +21,4 @@ Welcome to our Java Project "Match Madness!" This is a card matching game that w
 - For your convenience, there will be a printed answer list left in the standard terminal for you, to aid in testing the game without testing your memory!
 - In the Class.java file, you'll find 1 undefined, commented-out, function referring to a specific task each card subclass was supposed to have. One of our reasons for using subclasses of Card, rather than just instances of Card, for the different card types was that we had hoped to include a special reaction to each card type. For example, we wanted our animal cards to output their sound to the chat box when selected, and our color cards to alter the colour of the game title, however in the end we were not able to implement these.
 
-![image](https://github.com/feguare/Java_Memory_Game_Project/assets/123463013/038a7834-fcf1-4b73-a298-fe40bc8dd7c0)
+![image](https://github.com/feguare/Java_Memory_Game_Project/assets/123463013/ac2f3088-ba4a-4f45-a8b1-224604a91a87)
